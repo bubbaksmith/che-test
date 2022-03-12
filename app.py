@@ -5,7 +5,6 @@ import os
 import argparse
 import requests
 from prettytable import PrettyTable
-from IPython import embed
 
 parser = argparse.ArgumentParser(description="Weather API")
 parser.add_argument(
