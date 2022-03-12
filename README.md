@@ -3,13 +3,13 @@ This is a mock interview submission.
 I admittedly did not spend adequate time on this README.
 
 # Install
-```shell
+```
 pip install -r requirements.txt
 ```
 
 # Usage
 
-```shell
+```
 che-test > python app.py
 +---------------+---------+-------------+
 |   City name   | Weather | Temperature |
